@@ -1,4 +1,4 @@
-# Bioinformatics Project - Sarthak Mahapatra
+# Drug Discovery API to predict Bioactivity Data
 
 This repository contains the source code for building a machine learning model using ChEMBL bioactivity data. The project is implemented in a single Jupyter notebook, `Model_training.ipynb`, which covers all aspects of the data processing and model development pipeline.
 
